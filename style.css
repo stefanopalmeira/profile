@@ -1,0 +1,115 @@
+body {
+  background-color: #3d9fb1;
+  color: #ffe2a1;
+  font-family: 'Helvetica Neue', serif;
+  text-align: center;
+}
+
+ h1 {
+  color: #ffca55;
+  line-height: 40px;
+  font-size: 20px
+ }
+
+ h2 {
+  color: #ffca55;
+  line-height: 30px;
+  font-size: 30px
+ }
+
+ h3 {
+  color: #ffe2a1;
+  line-height: 1px;
+  font-size: 24px
+ }
+
+ h4 {
+  color: rgb(0,0,0, 0.1);
+  line-height: 10px;
+  font-size: 14px
+
+ }
+
+ p {
+    margin-bottom: 30px;
+    font-size: 20px;
+ }
+
+ a {
+  text-decoration: none;
+ }
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+  color: rgb(230, 230, 230);
+}
+
+i {
+  color: #146473;
+}
+
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.card {
+  box-shadow: 5px 5px 40px rgba(100,155,120,0.9);
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  width: auto;
+  background-color: #ff6555;
+  border-radius: 10px;
+  margin: 0 0 20px 0;
+}
+
+#nobord {
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+  }
+
+#notop {
+    padding-top: 90px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+  }
+
+#foto {
+    box-shadow: 5px 5px 40px rgba(100,155,120,0);
+    margin: 0px 0px -100px 0px;
+    background-color: rgb(0,0,0,0);
+}
+
+.list-inline {
+  list-style: none;
+  margin: 0;
+  padding-left: 0px;
+  font-size: 50px;
+}
+
+.btn {
+  padding: 15px 20px;
+  background-color: #146473;
+  color: rgb(230, 230, 230);
+  font-weight: bold;
+  border-radius: 20px;
+  margin: 50px 50px 50px 50px;
+}
+.btn:hover {
+  background-color: #1f5761;
+}
+
+
